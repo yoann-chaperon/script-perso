@@ -1,0 +1,7 @@
+while (true) do
+clear 
+arp -a
+sleep 5
+echo refresh ...
+sleep 1
+done
